@@ -16,11 +16,11 @@ MyGit is a Git-inspired version control system implemented in Java. It provides 
 
 ### Screenshots
 
-![Status Command Output](screenshots/Screenshot 1.png)
-![Status Command Output](screenshots/Screenshot 2.png)
-![Status Command Output](screenshots/Screenshot 3.png)
-![Status Command Output](screenshots/Screenshot 4.png)
-![Status Command Output](screenshots/Screenshot 5.png)
+![Status Command Output](screenshots/Screenshot1.png)
+![Status Command Output](screenshots/Screenshot2.png)
+![Status Command Output](screenshots/Screenshot3.png)
+![Status Command Output](screenshots/Screenshot4.png)
+![Status Command Output](screenshots/Screenshot5.png)
 
 ### CLI commands
 ```bash
